@@ -51,7 +51,7 @@
 
   "feedbackStepXOfY": "Крок {current} із {total}",
   "feedbackDiscardButton": "Скасувати",
-  "feedbackDiscardConfirmButton": "Справді? Закрити",
+  "feedbackDiscardConfirmButton": "Справді? Відхилити!"
   "feedbackNextButton": "Далі",
   "feedbackBackButton": "Назад",
   "feedbackCloseButton": "Закрити",
