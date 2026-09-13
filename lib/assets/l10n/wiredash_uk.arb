@@ -27,11 +27,11 @@
 
   "feedbackStep3GalleryTitle": "Додані скріншоти",
   "feedbackStep3GalleryBreadcrumbTitle": "Знімки екрана",
-  "feedbackStep3GalleryDescription": "Ти можеш додати більше скріншотів, щоб допомогти нам ще краще зрозуміти вашу проблему.",
+  "feedbackStep3GalleryDescription": "Ти можеш додати більше скріншотів, щоб допомогти нам краще зрозуміти проблему.",
 
   "feedbackStep4EmailTitle": "Отримуй оновлення щодо проблеми",
   "feedbackStep4EmailBreadcrumbTitle": "Контакти",
-  "feedbackStep4EmailDescription": "Введи свою електронну адресу нижче або залиште поле порожнім",
+  "feedbackStep4EmailDescription": "Введи свою електронну адресу нижче або залиш поле порожнім",
   "feedbackStep4EmailInvalidEmail": "Це не схоже на правильну адресу електронної пошти. Ти можеш лишити це поле порожнім.",
   "feedbackStep4EmailInputHint": "mail@example.com",
 
@@ -46,7 +46,7 @@
   "feedbackStep7SubmissionInFlightMessage": "Надсилання відгуку",
   "feedbackStep7SubmissionSuccessMessage": "Дякуємо за твій відгук!",
   "feedbackStep7SubmissionErrorMessage": "Не вдалося надіслати відгук",
-  "feedbackStep7SubmissionOpenErrorButton": "Натисніть, щоб переглянути деталі помилки",
+  "feedbackStep7SubmissionOpenErrorButton": "Натисни, щоб переглянути деталі помилки",
   "feedbackStep7SubmissionRetryButton": "Повторити",
 
   "feedbackStepXOfY": "Крок {current} із {total}",
